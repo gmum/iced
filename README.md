@@ -1,9 +1,9 @@
 # ICED: In-Context Density Estimation for Tabular Data
+Code repository for [https://arxiv.org/abs/2608.09348](https://arxiv.org/abs/2608.09348)
 
 This repository is built on the first version of TabPFN and [ZEUS](https://github.com/gmum/zeus) codebase. The corresponding license can be found in the [legal](legal) directory. For the latest version, see the TabPFN2 repository: https://github.com/PriorLabs/TabPFN
 
 ## Abstract
-Code repository for [https://arxiv.org/abs/2608.09348](https://arxiv.org/abs/2608.09348)
 
 Density estimation underlies many unsupervised tasks on tabular data such as anomaly detection, 
 out-of-distribution detection, and data augmentation. Although all these problems reduce to questions 
